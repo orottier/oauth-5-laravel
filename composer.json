@@ -25,7 +25,7 @@
     ],
     "require": {
         "php": ">=5.4",
-        "orottier/oauth": "dev-master"
+        "orottier/oauth": "0.8.7"
     },
     "require-dev": {
         "illuminate/support": "~5"
